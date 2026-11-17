@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sometech-lp.github.io/amber-mellow-noe/sitemap.xml
+Sitemap: https://amber-mellow-noe.github.io/sitemap.xml
