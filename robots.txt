@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sometech-lp.github.io/amber-mellow-noe/sitemap.xml
